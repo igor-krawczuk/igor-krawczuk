@@ -1,0 +1,75 @@
+{{ partial "header.html" . }}
+<article class="post post-view">
+  <header class="post-header">
+    <p class="post-meta">
+      {{- if or .Params.author .Site.Params.author -}}
+      {{ .Params.author | default .Site.Params.author }} · {{ end }}
+      {{- .Date.Format "2006.1.2" -}}
+    </p>
+  </header>
+  <div class="post-content">{{ .Content }}</div>
+<h1> (Irregular) blog posts and project updates:</h1>
+{{ $paginator := .Paginate (where .Pages ".Params.type" "!=" "page") (index .Site.Params "paginate" | default 10) }}
+{{ if gt $paginator.TotalPages 0 }}
+{{ range $index, $page := $paginator.Pages }}
+{{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
+{{ .Scratch.Set "postClass" "first-entry" }}
+{{ else }}
+{{ .Scratch.Set "postClass" "post-entry" }}
+{{ end }}
+<article class="post {{ .Scratch.Get `postClass` }}">
+  <header class="post-header">
+    {{ safeHTML (.Scratch.Get `firstEmoji`) }}
+    <h2 class="post-title">{{ .Title }}</h2>
+  </header>
+  <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}...</p>
+  <footer class="post-footer">
+    <p class="post-meta">{{ .Date.Format "2006.1.2" }}</p>
+  </footer>
+  <a class="post-link" href="{{ .Permalink }}"></a>
+</article>
+{{ end }}
+{{ end }}
+{{ if gt $paginator.TotalPages 1 }}
+<footer class="list-footer">
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Prev Page</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+    <a class="pagination-next" href="{{ $paginator.Next.URL }}">Next Page →</a>
+    {{ end }}
+  </nav>
+</footer>
+{{ end }}
+  <footer class="post-footer">
+    {{ if .Params.tags }}
+    <ul class="post-tags">
+      {{ range .Params.tags }}
+      <li><a href="{{$.Site.BaseURL}}tags/{{ . | urlize }}/">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </footer>
+  <!-- Comments system area start -->
+  {{ if not (eq .Params.comments false) }}
+  {{ if .Site.DisqusShortname }}
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_shortname = '{{ .Site.DisqusShortname }}';
+    (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+  </noscript>
+  <!-- Comments system area end -->
+  {{ end }}
+  {{ end }}
+</article>
+{{ partial "footer.html" . }}

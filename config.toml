@@ -1,0 +1,14 @@
+baseurl = "https://krawczuk.eu/"
+title = "Learning is living"
+languageCode = "en-uk"
+theme = "hugo-paper"
+enableEmoji = false
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+
+[params]
+  author = "Igor Krawczuk"
+  twitter   = "https://twitter.com/thegermanpole"
+  github    = "https://github.com/igor-krawczuk"
+  gitlab    = "https://gitlab.com/igor-krawczuk"
+  email     = "contact (at) krawczuk (point) eu"
