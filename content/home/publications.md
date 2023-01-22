@@ -8,7 +8,7 @@ content_type: 'publications'
 section_settings:
     show_section: true
     title: 'Selected Publications'
-    subtitle: 'please see my google scholar for the complete list'    
+    subtitle: 'Please see my google scholar for the complete list. * and other symbols denote equal contributions.'    
 ---
 
 home/publications.md

@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'Liberation Sans';
+    src: url('Liberation Sans.woff') format('woff'), /* Modern Browsers */
+         url('Liberation Sans.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('Liberation Sans.svg#LiberationSans') format('svg'); /* Legacy iOS */
+}
+
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Liberation Sans','Inter', sans-serif;
     color: #071013;
 }
 
@@ -14,7 +21,7 @@ a:hover {
 }
 
 h2 code {
-  font-family: Consolas,"courier new";
+  font-family: 'Liberation Sans',Consolas,"courier new";
   /* background-color: #f1f1f1; */
   background-color:  #8C1515;;
   color: white;
@@ -60,11 +67,11 @@ h2 code {
 }
 
 .secondary_font {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
 }
 
 .section-subtitle {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
 }
 
 #profile_picture  {
@@ -86,7 +93,7 @@ h2 code {
 }   
 
 .about #email {
-    font-family: 'Ubuntu Mono', serif; 
+    font-family: 'Liberation Sans','Ubuntu Mono', serif; 
     margin: auto;
 }
 
@@ -140,16 +147,16 @@ h2 code {
 }
 
 .publication .section-1 .publication-date {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
 }
 
 .publication .section-1 .publication-name {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
 }
 
 
 .publication .section-2 {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
     margin-top: -.1%;
     margin-bottom: .5%;
 }
@@ -157,7 +164,7 @@ h2 code {
 
 .publication .section-3 {
     margin-top: -.5%;
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
     text-decoration: none;
 }
 
@@ -189,7 +196,7 @@ h2 code {
 }
 
 .projects .project a{
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
     padding: .15%;
 }
 .projects .project .section-2 a:hover {
@@ -236,7 +243,7 @@ h2 code {
 }
 
 .tags_navigation .tag {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
     padding: .15%;
     background-color: #8C1515;
     color: aliceblue;
@@ -254,7 +261,7 @@ h2 code {
 }
 
 .blog_nav_bar .item {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
     padding: .15%;
     background-color: #8C1515;
     color: aliceblue;
@@ -263,7 +270,7 @@ h2 code {
 }
 
 .reading_time {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Liberation Sans','Ubuntu Mono', serif;
     margin-top: -.5%;
     margin-bottom: 1%;
 }

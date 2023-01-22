@@ -2,8 +2,8 @@
 title: "[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)"
 authors:
 - 
-- Clement Vignac*
-- "***Igor Krawczuk*"
+- \*Clement Vignac
+- "***Igor Krawczuk**"
 - Antoine Siraudin
 - Bohan Wang
 - Volkan Cevher

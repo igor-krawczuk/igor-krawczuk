@@ -2,7 +2,6 @@
 {{if $content_type}}
 {{ $t := .Site.GetPage $content_type }}
 {{ $rscPages := $t.Resources.ByType "page"}}
-
 {{if gt (len $rscPages) 0}}
 <div class="projects row w-100">
     <div class="col w-100">
@@ -10,7 +9,7 @@
         <div class="project row w-100">
             <div class="section-1 w-100">
                 <span class="project-title">
-                    {{$page.Params.title}}
+                    {{$page.Params.title | markdownify}}
                 </span>
             </div>
 
@@ -26,14 +25,14 @@
                 {{end}}
             </div>
             {{end}}
+            {{ $description := $page.Params.description }}
             {{ if $description }}
             <div class="section-3  w-100">
               <p>
-            {{$description |markdownify }}
-            </p>
+              {{$description | markdownify}}
+              </p>
             </div>
-            {{ end }}
-
+            {{ end}}
 
         </div>
         {{end}}
