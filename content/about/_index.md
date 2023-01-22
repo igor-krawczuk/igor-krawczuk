@@ -56,7 +56,7 @@ academia:
 
 ### TL;DR
 
-- I am currently a researcher and Ph. D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch). My current research focuses on generative models and reinforcement learning for combinatorial domains, in particular their application to integrated circuit design.
+- I am currently a researcher and Ph. D. student at the [LIONS](https://lions.epfl.ch) laboratory at [EPFL](htttps://epfl.ch). My current research focuses on generative models and reinforcement learning for combinatorial domains, in particular their application to integrated circuit design.
 - To see what this means I do concretely, check my [favourite works](#selected-publications), my [CV](/cv.pdf) a summary of my high level [research directions](#interests) and my [selected side projects](#some-non-academic-projects) 
 - As my Ph.D. nears its end, I am now looking for suitable applied ML/ML research or leadership roles in tech/finance firms or private research entities. If you are looking to fill such a role **based in Switzerland**, please check below whether my profile fits and reach out :-) Also open to consulting and other types of collaborations.
 
@@ -77,7 +77,7 @@ Finally in the last decade I've not only been been a Ph.D. student, but also the
 
 While my current research focuses on sample efficient distributional modeling and reinforcement learning methods on combinatorial domains like sets and graphs, I got into ML wanting to understand decision making processes in adaptive systems.
 
-Together with a politically conscious socialisation in the german hacking scene (particular [CCC]() influenced online spaces)
+Together with a politically conscious socialization in the german hacking scene (particular [CCC]() influenced online spaces)
 this has developed into studying the intersection of computer science and politics and economics , although my lens is of course mainly shaped my engineering and ML background.
 
 As such you can split my research into a technical track and into a humanities (polisci/economics/governance) track.
@@ -101,15 +101,15 @@ but I am also **open for consulting work, or out of the box ideas**. Generally, 
 *Roles which I consider myself a good fit for:*
 
 - Researcher, senior ML engineer or a technical leadership role in established tech companies or startups interested in applying rigorous ML and optimization techniques to real world problems. In particular problems involving:
-   - combinatorial optimisation
+   - combinatorial optimization
    - formal verification/guarantees
    - game theoretic problems like robustness, mechanism design (think auctions) etc.
 - Researcher, research manager  in private research entities like foundations or thinktanks which would allow me to work on the above problems, or on the intersection between politics, economics and AI. This can include practical work like PoC technologies to improve governance and policy making, pure research or something in between.
 - Researcher, Quantitative researcher or ML engineer for financial institutions or trading houses who can make use of my game theory and combinatorial optimization academic background as well as my software engineering skills to develop new ways of managing risks.
-- Entrepeneur in residence, innovation manager or ecosystem designer for established firms or institutions who want to open themselves up to open source and community based innovation to improve their agility and innovative power
+- Entrepreneur in residence, innovation manager or ecosystem designer for established firms or institutions who want to open themselves up to open source and community based innovation to improve their agility and innovative power
 
 
  
-[^1]: An example for governance would be using natural language processing to quantify the consistency between the proclaimed values of corporate and political entities and their behaviour in markets/the political process, while an industrial application would be portfolio optimization, risk managing, forecasting or autonomous industrial online-bots and physical drones.
+[^1]: An example for governance would be using natural language processing to quantify the consistency between the proclaimed values of corporate and political entities and their behavior in markets/the political process, while an industrial application would be portfolio optimization, risk managing, forecasting or autonomous industrial online-bots and physical drones.
 [^2]: See e.g. [this Science publication](https://www.science.org/doi/abs/10.1126/science.abi7176) I contributed to in the context of AI governance
 [^3]: See e.g. [publication](https://www.hindawi.com/journals/complexity/2022/8210732/) on a complexity theory based view on policy making

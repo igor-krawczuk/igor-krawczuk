@@ -10,7 +10,7 @@ authors:
 - Pascal Frossard
 date: "2022-10-28"
 
-publication: "ICLR 2023"
+publication: "preprint, accepted to ICLR 2023"
 
 links:
     pdf: https://arxiv.org/abs/2209.14734
