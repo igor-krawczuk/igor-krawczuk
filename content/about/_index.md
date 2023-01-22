@@ -50,7 +50,18 @@ academia:
         #other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
 ---
 
-An electrical and software engineer by undergrad training, I am currently a researcher and terminal Ph.D. student at the [LIONS]() laboratry at [EPFL]().
+### TL;DR
+
+- I am currently a researcher and terminal Ph. D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch). My current research focuses on generative models and reinforcement learning for combinatorial domains, in particular their application to integrated circuit design
+ 
+- Since this is the sales pitch: Without wanting to brag I would say that I am  [T-shaped academic](https://bastian.rieck.me/blog/posts/2022/t/) person who has done work on almost all aspects of computing, machine learning and optimization by now.
+  From hardware design through systems programming with C,C++ and Rust through writing my own CUDA kernels to writing large scale ML and RL systems, as well as supervising over 20 students and interns in the last 4 years. This across a decade in which I've been a Ph.D. student, but also the co-founder of 3 startups, a software and ML prototyping consultant, the sys-admin of our lab, a contributor in lobbying for improved AI governance, and a board-member of various association and NGO boards.
+
+- As my Ph.D. nears its end, I am now looking for suitable applied ML/ML research or leadership roles in tech/finance firms, private research entities or startups to transition to and continue contributing and growing. If you are based in Switzerland and are looking to fill such a role or have other interesting collaborations in mind, please check below whether my profile fits and reach out :-)
+
+### or if you have time:
+ 
+An electrical and software engineer by undergrad training, I am currently a researcher and terminal Ph.D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch).
 My doctoral studies started with neuromorphic computing hardware and slowly drifted into theoretically grounded applied and ML/optimization.
 My current research focuses on generative models and reinforcement learning on combinatorial domains like sets and graphs.
 
