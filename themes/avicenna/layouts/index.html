@@ -26,7 +26,7 @@ NO CONTENT TYPE FOUND. Set content_type = "{{.Params.title | lower }}"
         <div class="row w-100">
             <div class="col w-100">
                 {{if $title }}
-                <h3 class="row  w-100 section-title main_color"> {{ $title }} </h3>
+                <h3 id="{{ $title | anchorize }}" class="row  w-100 section-title main_color"> {{ $title }} </h3>
                 {{ end }}
 
                 {{ if $subtitle}}

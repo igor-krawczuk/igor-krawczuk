@@ -52,21 +52,33 @@ academia:
 
 ### TL;DR
 
-- I am currently a researcher and terminal Ph. D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch). My current research focuses on generative models and reinforcement learning for combinatorial domains, in particular their application to integrated circuit design
- 
-- Since this is the sales pitch: Without wanting to brag I would say that I am  [T-shaped academic](https://bastian.rieck.me/blog/posts/2022/t/) person who has done work on almost all aspects of computing, machine learning and optimization by now.
-  From hardware design through systems programming with C,C++ and Rust through writing my own CUDA kernels to writing large scale ML and RL systems, as well as supervising over 20 students and interns in the last 4 years. This across a decade in which I've been a Ph.D. student, but also the co-founder of 3 startups, a software and ML prototyping consultant, the sys-admin of our lab, a contributor in lobbying for improved AI governance, and a board-member of various association and NGO boards.
+- I am currently a researcher and terminal Ph. D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch). My current research focuses on generative models and reinforcement learning for combinatorial domains, in particular their application to integrated circuit design.
+- Check my [favourite works](#selected-publications) to get an 
+- As my Ph.D. nears its end, I am now looking for suitable applied ML/ML research or leadership roles in tech/finance firms or private research entities. If you are looking to fill such a role **based in Switzerland**, please check below whether my profile fits and reach out :-) Also open to consulting and other types of collaborations.
 
-- As my Ph.D. nears its end, I am now looking for suitable applied ML/ML research or leadership roles in tech/finance firms, private research entities or startups to transition to and continue contributing and growing. If you are based in Switzerland and are looking to fill such a role or have other interesting collaborations in mind, please check below whether my profile fits and reach out :-)
+### Details about me
 
-### or if you have time:
- 
-An electrical and software engineer by undergrad training, I am currently a researcher and terminal Ph.D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch).
-My doctoral studies started with neuromorphic computing hardware and slowly drifted into theoretically grounded applied and ML/optimization.
-My current research focuses on generative models and reinforcement learning on combinatorial domains like sets and graphs.
 
-I got into ML wanting to understand decision making processes. Together with a politically conscious socialisation in the german hacking scene (particular [CCC]() influenced online spaces)
-this [has](has) developed into studying the intersection of computer science, politics and economics, although my lens is of course mainly shaped my engineering and ML background.
+Since this is the sales pitch: Without wanting to brag I would say that by now I am a  [T-shaped person](https://bastian.rieck.me/blog/posts/2022/t/) who has done work on almost all aspects of computing, machine learning and optimization.
+
+Originally trained as an electrical and computer engineer, I am currently a researcher and terminal Ph.D. student at the [LIONS](https://lions.epfl.ch) laboratry at [EPFL](htttps://epfl.ch).
+My doctoral studies started with neuromorphic computing hardware - trying to build brain inspired ML accelerators -  and slowly drifted into theoretically grounded applied and ML/optimization.
+
+This has given me the chance to work with the "full stack" of ML research and engineering. During my Ph.D. I have done hardware design, systems programming with C,C++ and Rust, written my own CUDA kernels as well as large scale ML and RL systems in tensorflow, pytorch and jax.
+I also supervised over 20 students and interns and worked with half a doze industrial partners.
+Finally in the last decade I've not only been been a Ph.D. student, but also the co-founder of 3 startups, a software and ML prototyping consultant, the sys-admin of our lab, a contributor in lobbying for improved AI governance, and a board-member of various association and NGO boards.
+
+### My interests
+
+
+Whie my current research focuses on sample efficient distributional modeling and reinforcement learning methods on combinatorial domains like sets and graphs, I got into ML wanting to understand decision making processes in adaptive systems.
+
+Together with a politically conscious socialisation in the german hacking scene (particular [CCC]() influenced online spaces)
+this [has](has) developed into studying the intersection of computer science and politics and economics, although my lens is of course mainly shaped my engineering and ML background.
+
+As such I am interested in developing in using applied ML methods to study and improve corporate, econimic and political decision making processes[^1]
+
+
 
 As I wrap up my Ph.D. I am looking for new opportunities. Since Switzerland requires private or public employment (read: non-academic) I am now open for offers of emplyoment towards the end of 2023.
 
@@ -82,4 +94,5 @@ I am especially interested to work with especially the following entities:
 
 
 but I am also open for consulting work, or out of the box ideas. Generally, I've found that the most interesting opportunities are those you didn't' expect, so please don't hesitate reaching out!
-
+ 
+[^1]:e.g. using natural language processing to quantify the consistency between the proclaimed values of corporate and political entities and their behaviour in markets/the political process
