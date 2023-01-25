@@ -69,7 +69,7 @@ Originally trained as an electrical and computer engineer, I am currently a rese
 My doctoral studies started with neuromorphic computing hardware - trying to build brain inspired ML accelerators -  and slowly drifted into applied ML and ML/optimization theory.
 
 This has given me the chance to work with the "full stack" of ML research and engineering. During my Ph.D. I have done hardware design, systems programming with C,C++ and Rust, written my own CUDA kernels as well as large scale ML and RL systems in tensorflow, pytorch and jax.
-I also supervised over 20 students and interns and worked with half a doze industrial partners.
+I also supervised over 20 students and interns and worked with half a dozen industrial partners.
 Finally in the last decade I've not only been been a Ph.D. student, but also the co-founder of 3 startups, a software and ML prototyping consultant, the sys-admin of our lab, a contributor in lobbying for improved AI governance, and a board-member of various association and NGO boards.
 
 ### My interests
