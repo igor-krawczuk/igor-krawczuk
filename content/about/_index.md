@@ -95,7 +95,7 @@ As I wrap up my Ph.D. I am looking for new opportunities that allow me to pursue
 In particular, I am interested in  working with **private** enterprises (tech firms, financial firms, startups and foundations or private labs)  towards the end of 2023.
 
 A non-exhaustive list of roles for which I think I might be a good fit is given below,
-but I am also **open for consulting work, or out of the box ideas**. Generally, I've found that the most interesting opportunities are those you didn't' expect, so please **don't hesitate reaching out! (Email at the top)**.
+but I am also **open for consulting work, or out of the box ideas**. Generally, I've found that the most interesting opportunities are those you didn't expect, so please **don't hesitate reaching out! (Email at the top)**.
 
 
 *Roles which I consider myself a good fit for:*
