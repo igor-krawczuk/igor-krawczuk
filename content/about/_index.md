@@ -58,12 +58,12 @@ academia:
 
 - I am currently a researcher and Ph. D. student at the [LIONS](https://lions.epfl.ch) laboratory at [EPFL](htttps://epfl.ch). My current research focuses on generative models and reinforcement learning for combinatorial domains, in particular their application to integrated circuit design.
 - To see what this means I do concretely, check my [favourite works](#selected-publications), my [CV](/cv.pdf) a summary of my high level [research directions](#interests) and my [selected side projects](#some-non-academic-projects) 
-- As my Ph.D. nears its end, I am now looking for suitable applied ML/ML research or leadership roles in tech/finance firms or private research entities. If you are looking to fill such a role **based in Switzerland**, please check below whether my profile fits and reach out :-) Also open to consulting and other types of collaborations.
+- As my Ph.D. nears its end, I am now looking for suitable applied ML/ML research or leadership roles in tech/finance firms or private research entities. If you are looking to fill such a role **based in Switzerland**, please check below whether my profile fits and reach out :-) Also open to consulting and other types of collaborations, so if you want to chat book a slot at https://cal.com/igorkraw
 
 ### Details about me
 
 
-Since this is the sales pitch: Without wanting to brag I would say that by now I am a  [T-shaped person](https://bastian.rieck.me/blog/posts/2022/t/) who has done work on almost all aspects of computing, machine learning and optimization.
+Since this is the sales pitch, let me try to overcome the academic impostor syndrome:  I am a  [T-shaped person](https://bastian.rieck.me/blog/posts/2022/t/) who has done work on almost all aspects of computing, machine learning and optimization.
 
 Originally trained as an electrical and computer engineer, I am currently a researcher and terminal Ph.D. student at the [LIONS](https://lions.epfl.ch) laboratory at [EPFL](htttps://epfl.ch).
 My doctoral studies started with neuromorphic computing hardware - trying to build brain inspired ML accelerators -  and slowly drifted into applied ML and ML/optimization theory.
