@@ -13,7 +13,8 @@ theme = "avicenna"
 title = "YOUR_NAME"
 
 # number of posts to show on the blog page
-paginate = 10
+[pagination]
+pagerSize = 10
 
 [markup]
 [markup.tableOfContents]
